@@ -1,0 +1,65 @@
+body {
+    background-color: #eee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .container {
+    background-color: white;
+  }
+  header {
+    background-color: red;
+    color: black;
+    text-align: center;
+  }
+  nav ul {
+    list-style-type: type;
+  }
+  a {
+    text-decoration: ;
+    color: red;
+  }
+  img {
+    border: black;
+  }
+  h1 {
+    color: red;
+  }
+  h2 {
+    color: red;
+  }
+  h3 {
+    color: black;
+  }
+  thead {
+    background-color: red;
+  }
+  thead {
+    background-color: red;
+  }
+  tbody {
+    color: black;
+  }
+  tfoot {
+    font-weight: bold;
+    font-size: 75%;
+    color: black;
+    background-color: red;
+  }
+  caption {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 150%;
+    color: red;
+    border: 2px solid black;
+  }
+  table{
+    border: 2px solid black;
+  }
+  th {
+    border: 2px solid black;
+    background-color: red;
+    color: black;
+  }
+  td {
+    border: 2px solid black;
+  }
+  
